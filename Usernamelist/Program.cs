@@ -38,7 +38,7 @@ namespace Usernamelist
                     if (students.Contains(name))
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("name has already been added.Names must be unique.");
+                        Console.WriteLine("name has already been added. Names must be unique.");
                         //if we don't add to the collection
                     }
                     else students.Add(name);
