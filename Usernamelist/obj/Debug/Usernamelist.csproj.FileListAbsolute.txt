@@ -1,0 +1,21 @@
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.exe.config
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.exe
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.pdb
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.csproj.AssemblyReference.cache
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.exe
+//vmware-host/Shared Folders/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.pdb
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.exe.config
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.exe
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/bin/Debug/Usernamelist.pdb
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.csproj.AssemblyReference.cache
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.csproj.CoreCompileInputs.cache
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.exe
+/Users/jsparkes/Documents/College/L3 BTEC/Year 1/Unit 4 Programming/VS Projects/Usernamelist/Usernamelist/obj/Debug/Usernamelist.pdb
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\bin\Debug\Usernamelist.exe.config
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\bin\Debug\Usernamelist.exe
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\bin\Debug\Usernamelist.pdb
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\obj\Debug\Usernamelist.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\obj\Debug\Usernamelist.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\obj\Debug\Usernamelist.exe
+\\Mac\Home\Documents\College\L3 BTEC\Year 1\Unit 4 Programming\VS Projects\Usernamelist\Usernamelist\obj\Debug\Usernamelist.pdb
